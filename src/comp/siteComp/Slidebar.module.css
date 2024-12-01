@@ -1,0 +1,22 @@
+.aside{
+  width: 15%;
+  height: 600px;
+  font-size: 23px;
+  background-color: rgb(247, 244, 241);
+  padding: 20px;
+  justify-content: space-evenly;
+
+}
+
+
+ul>li{
+  margin: 40px;
+  text-transform: capitalize;
+  font-style: oblique;
+  list-style: none;
+  text-decoration: underline;
+  text-decoration-color:gray ;
+  text-decoration-thickness:3px ;
+
+}
+

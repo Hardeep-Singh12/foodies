@@ -1,0 +1,32 @@
+.head{
+  font-size: 53px;
+  padding: 12px;
+   color: #f1c40f;
+   font-weight: bold;  
+  background-color: #333;
+  text-decoration: underline;
+  text-decoration-color:rgb(252, 4, 4) ;
+  text-decoration-thickness:3px ;
+
+}
+.nav{height: 120px;
+display: flex;
+width: 10%;
+}
+footer{
+  display: block;
+  position: relative;
+  justify-content: right;
+}
+.all{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:start;
+}
+
+.Feed{
+  height: 650px;
+  width: 82%;
+  overflow: auto;
+  scrollbar-width: none;
+}

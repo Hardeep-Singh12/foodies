@@ -1,0 +1,82 @@
+.all{
+  justify-content: center;
+  padding: 20px;
+  background-color: #333;
+  height: 640px;
+  width: 100%;
+  display: flex;
+  padding-left: 120px;
+
+}
+.all>h1{
+  font-size: 59px;
+  text-transform: capitalize;
+  text-decoration: underline;
+  text-decoration-color:red ;
+  position: relative;
+
+  position: relative;
+  color: #f1c40f;
+
+ /* margin-left:80px ; */
+}
+.formR{
+  height: 300px;
+  background-color: rgb(250, 251, 250);
+   width: 400px;
+   justify-content: center;
+   color: black;
+   justify-content: center;
+   position: relative;
+   top: 200px;
+   right: 900px;
+   background: transparent;
+   border-radius: 20px;
+}
+.formR>h1{
+  font-size: 60px;
+  margin-top: -80px;
+  margin-bottom: 20px;
+  z-index: 10;
+  color: #f1c40f;
+  position:absolute;
+ 
+}
+.data{
+  color: #f1c40f;
+  font-size: 25px;
+  position: relative;
+  display: flex;
+  justify-content:space-between;
+  text-transform: capitalize;
+  margin: 12px;
+  padding: 2px;
+  top: 20px;
+}
+.data>input{
+  border-radius: 12px;
+  margin-left: 12px;
+  border: 2px solid;
+}
+.btn{
+  font-size: 18px;
+  padding: 8px;
+  margin: 10px;
+  background-color: #333;
+  color: #f1c40f;
+  margin-top: 20px;
+  margin-left: 20px;
+  border-radius: 20px;
+}
+.btn a {
+  color: #f1c40f; 
+  text-decoration: none; 
+}
+  .backGround {
+    width: 200%;
+    height: auto; 
+    display: block; 
+    border-radius: 4%;
+    position: relative;
+    left: 50px;
+  }
